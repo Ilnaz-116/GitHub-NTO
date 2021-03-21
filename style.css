@@ -33,11 +33,6 @@ nav{
 .nav-menu a:hover{
     color: blueviolet;
 }
-.nav-reg li{
-    list-style: none;
-    text-decoration: none;
-    margin: 0 30px;
-}
 .nav-reg a{
     text-decoration: none;
     color: rgb(58, 57, 57);
